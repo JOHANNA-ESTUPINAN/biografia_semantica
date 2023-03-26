@@ -1,0 +1,12 @@
+.list-group-item.active-personalizado{
+    border-color: #5db8ec   ;
+    background-color: #80d4f5;
+    color: rgb(10, 2, 2);
+}
+footer .list-group-item.active-personalizado{
+    background-color: #0dcaf0;
+    border: #84db89 ;
+}
+p,h1,a,li,h2,h3,h4,h5,h6{
+    font-family: 'Josefin Sans', sans-serif;
+}
